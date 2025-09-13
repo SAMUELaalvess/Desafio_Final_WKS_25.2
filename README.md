@@ -100,4 +100,4 @@ Este projeto me permitiu praticar análise de dados do início ao fim: carregame
 ## 📫 Contato
 
 * **Meu GitHub:** [seu-usuario](https://github.com/seu-usuario)
-* **Email:** [seu.email@exemplo.com](mailto:samukabolado52@gmail.com)
+* **Email:** [samukabolado52@gmail.com](mailto:samukabolado52@gmail.com)
