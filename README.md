@@ -89,24 +89,7 @@ Este repositório contém meu projeto de análise de dados usando Python e panda
 
 ---
 
-## ⚙️ Como rodar o projeto
 
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/meu-projeto-analise-dados.git
-cd meu-projeto-analise-dados
-```
-
-2. Instale as dependências:
-
-```bash
-pip install pandas matplotlib seaborn
-```
-
-3. Abra o notebook no Jupyter ou Google Colab e execute as células na ordem.
-
----
 
 ## 📝 Conclusão
 
