@@ -99,5 +99,5 @@ Este projeto me permitiu praticar análise de dados do início ao fim: carregame
 
 ## 📫 Contato
 
-* **Meu GitHub:** [seu-usuario](https://github.com/seu-usuario)
+* **Meu GitHub:** [SAMUELaalvess]([https://github.com/seu-usuario](https://github.com/SAMUELaalvess))
 * **Email:** [samukabolado52@gmail.com](mailto:samukabolado52@gmail.com)
